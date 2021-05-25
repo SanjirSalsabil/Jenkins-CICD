@@ -28,6 +28,12 @@ Integrating Ansible with Jenkins in a CI/CD process	https://www.redhat.com/en/bl
 
 *Installing the Jenkins server on **Ubuntu** https://www.vogella.com/tutorials/Jenkins/article.html#installing-the-jenkins-server-on-ubuntu
 
+**Quick start with jenkins in Docker**  https://medium.com/@gustavo.guss/quick-tutorial-of-jenkins-b99d5f5889f2
+
+Docker tutorial : Build Docker images using Jenkins 
+			      https://karthi-net.medium.com/docker-tutorial-build-docker-images-using-jenkins-d2880e65b74 
+			      https://code-maze.com/ci-jenkins-docker/
+
 
 Related project & end to end of solution architecture: 
 																												Continuous integration with Jenkins - Tutorial https://www.vogella.com/tutorials/Jenkins/article.html
@@ -37,18 +43,4 @@ Related project & end to end of solution architecture:
  **Automation Testing with Jenkins** | TestComplete https://smartbear.com/product/testcomplete/integrations/automated-testing-with-jenkins/
 
 
-_FAQ	_ : Why do tests pass locally but fail in Jenkins !! https://objectpartners.com/2018/09/18/why-your-tests-may-pass-locally-but-fail-in-jenkins/																											
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																												
-																				
-																											
+_FAQ	_ : Why do tests pass locally but fail in Jenkins !! https://objectpartners.com/2018/09/18/why-your-tests-may-pass-locally-but-fail-in-jenkins/	
